@@ -1,0 +1,41 @@
+{
+    "inclass": {
+        "first": {
+            "name": "1. Godina In-Class",
+            "url": "https://i.imgur.com/bwHZW6P.png",
+            "emoji": "1️⃣"
+        },
+        "second": {
+            "name": "2. Godina In-Class",
+            "url": "https://i.imgur.com/8TCemDN.png",
+            "emoji": "2️⃣"
+        },
+        "third": {
+            "name": "3. Godina In-Class",
+            "url": "https://i.imgur.com/1HdIWys.png",
+            "emoji": "3️⃣"
+        }
+    },
+    "dl": {
+        "first": {
+            "name": "1. Godina DL",
+            "url": "https://i.imgur.com/aUL2L26.png",
+            "emoji": "1️⃣"
+        },
+        "second": {
+            "name": "2. Godina DL",
+            "url": "https://media.discordapp.net/attachments/849959426060582913/898482915015544862/Raspored.png",
+            "emoji": "2️⃣"
+        },
+        "third": {
+            "name": "3. Godina DL",
+            "url": "https://i.imgur.com/E3VI9vV.png",
+            "emoji": "3️⃣"
+        },
+        "fourth": {
+            "name": "4. Godina DL",
+            "url": "https://i.imgur.com/AIZkAI3.png",
+            "emoji": "4️⃣"
+        }
+    }
+}

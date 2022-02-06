@@ -1,0 +1,7 @@
+praw==7.4.0
+requests==2.25.1
+html2md==0.1.7
+novus==0.0.2
+aiohttp==3.7.4
+beautifulsoup4==4.9.3
+python-dotenv==0.19.0 

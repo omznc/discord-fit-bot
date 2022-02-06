@@ -1,0 +1,49 @@
+{   
+    "thumbnail": "https://i.imgur.com/2c6X56V.png",
+    "channelID": 0,
+    "guild_id": 0,
+    "webhook_url": "",
+    "roleTagID": "<@&796116996000579644>",
+    "sleepInSeconds": 30,
+    "post_to_reddit": false,
+    "fiturl": "www.fit.ba",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"
+    },
+    "data": {
+        "txtBrojDosijea": "",
+        "txtLozinka": "",
+        "listInstitucija": "1",
+        "btnPrijava": "Prijava",
+        "__VIEWSTATE": "",
+        "__VIEWSTATEGENERATOR": "",
+        "__EVENTVALIDATION": ""
+    },
+    "avatars": {
+        "Iris": "https://i.imgur.com/GGi41RP.jpg",
+        "Senad": "https://i.imgur.com/5daub51.jpg",
+        "Edina": "https://i.imgur.com/VSIBIdl.png",
+        "Elmir": "https://i.imgur.com/OzejLET.png",
+        "Denis": "https://i.imgur.com/tiqvWN8.png",
+        "Indira": "https://i.imgur.com/B7NLccc.png",
+        "Veldin": "https://i.imgur.com/kg6Q4qu.png",
+        "Dubravka": "https://i.imgur.com/qSRAJCk.png",
+        "Adil": "https://i.imgur.com/DvLFvle.jpg",
+        "Nina": "https://i.imgur.com/HRdnmeR.png",
+        "Sanja": "https://i.imgur.com/H3o1RCI.jpg",
+        "Migdat": "https://i.imgur.com/qBUvYTN.jpg",
+        "Lejla": "https://i.imgur.com/kxXOF5o.jpg",
+        "Elvir": "https://i.imgur.com/SjSWx4y.jpg",
+        "Haris": "https://i.imgur.com/DuWrvmU.png",
+        "Mohamed": "https://i.imgur.com/ITsfzfi.png",
+        "default": "https://i.imgur.com/SsLMCUF.jpg"
+    },
+    "redditdata": {
+        "client_id": "",
+        "client_secret": "",
+        "password": "",
+        "user_agent": "",
+        "username": ""
+    },
+    "statuses" : ["fit.ba/discord.", "with fire.", "Minecraft.", "with Kez.", "Death Note.", "FIT lmao."]
+}
