@@ -9,7 +9,7 @@ I do not vouch that this repository will be updated with the production code tha
 ---
 Below here are all the custom modules the bot is using.
 
-They can be easily `/cogs enable`-d and `/cogs disable`-d, among other things.
+They can be easily `/cogs enable`-d and `/cogs disable`-d, among other things. You can manually disable a cog from loading by either removing it from data/cogs, or renaming it so it doesn't end on .py (I use .disabled so the `/cogs` commands work with it)
 
 | Cog 	| Description 	|
 |---	|---	|
