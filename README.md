@@ -1,5 +1,5 @@
 # FIT Discord Bot
-A custom made bot for https://discord.io/FITMostar
+A custom made bot for https://discord.io/FITMostar and https://reddit.com/r/FITMostar
 
 You probably won't be able to run this bot without changing a bunch of hardcoded variables, like channel IDs, emoji IDs and such, but I am releasing the code anyway.
 
